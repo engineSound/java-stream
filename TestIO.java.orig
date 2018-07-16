@@ -1,0 +1,14 @@
+import java.io.*
+
+public class TestIO {
+<<<<<<< HEAD
+
+	public static void main(String[] args) {
+		
+	}
+
+
+=======
+	public static void main() {}
+>>>>>>> 6ad709f94f78fa734f3ca6e6e3786ee62debe4c9
+}
