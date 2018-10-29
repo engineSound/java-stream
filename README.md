@@ -16,7 +16,9 @@ THis line is used for rebase
 
 
 
+
 Changes onfeature 2
+
 
 crazay-experiment
 
@@ -24,4 +26,10 @@ crazay-experiment
 
 
 this
+
+
+this
+
+
+Chnages made on feature branch
 
