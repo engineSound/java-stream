@@ -1,0 +1,24 @@
+declaration block
+
+.classSelector {
+    font: Arial;
+    size: 14px;
+}
+
+p {
+  color: red;
+  }
+
+div p {
+  color: pink;
+}
+
+
+<link rel="stylesheet" type="text/css" href="this.css">
+<script src="this.js">
+
+
+
+<div class="container">
+
+
